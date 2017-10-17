@@ -43,7 +43,7 @@
 
         <config-file target="*-Info.plist" parent="UIBackgroundModes">
             <array>
-                <string>bluetooth-central</string>
+                <string>bluetooth-peripheral</string>
             </array>
         </config-file>
 
